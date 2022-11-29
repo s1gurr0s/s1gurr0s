@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is Vladimir and i'm a Python-developer
 
-### Skills: 
+#### Skills: Python, Django, Django Rest Framework, Docker, Docker-compose, PostgreSQL, Nginx, Linux, Яндекс.Облако, Djoser, HTML, CSS, Bootstrap, Unittest.
 
-### Python     Django     Django Rest Framework
 <!--
 **s1gurr0s/s1gurr0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
