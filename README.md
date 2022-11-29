@@ -1,5 +1,7 @@
 ### Hi there 👋, my name is Vladimir and i'm a Python-developer
 
+Skills: 
+
 <!--
 **s1gurr0s/s1gurr0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
