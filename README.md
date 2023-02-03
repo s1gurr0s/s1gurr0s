@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Vladimir and i'm a Python-developer
+### Hi there 👋, my name is AAAAAAAA and i'm a Python-developer
 
 #### Skills: Python, Django, Django Rest Framework, Docker, Docker-compose, PostgreSQL, Nginx, Linux, Яндекс.Облако, Djoser, HTML, CSS, Bootstrap, Unittest.
 
